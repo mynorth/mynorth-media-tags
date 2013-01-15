@@ -2,9 +2,13 @@ MyNorth Media Tags
 ===
 
 Contributors: Frank Bültge, Michael Thompson, Roger Lamb
+
 Tags: mynorth, mynorthmedia, attachments, images, media, media tags, media-tags, tags, taxonomy
+
 Requires at least: 3.5
+
 Tested up to: 3.5
+
 Stable tag: 3.5
 
 
@@ -48,5 +52,10 @@ Coming soon!
 Changelog
 ==
 
-= 1.0 =
+1.0.1
+=
+* Added get_the_mediatags() function
+
+1.0
+=
 * 2013-01-15: Initial release!

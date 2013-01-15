@@ -5,7 +5,7 @@
  * Author:      MyNorthMedia
  * Author URI:  http://mynorthmedia.com
  * Text Domain: mnm_attachment_taxonomies
- * Version:     1.0.0
+ * Version:     1.0.1
  * License:     GPLv3
  */
 
@@ -266,6 +266,10 @@ function get_attachments_by_media_tags($args='') {
   // so that templates expecting Media-Tags functions don't whine
 
   return get_attachments_by_tags($args, true);
+}
+
+function get_the_mediatags($id=0) {
+  return apply_filters('get_the_mediatags', get_the_terms($id, 'media-tags'));
 }
 
 

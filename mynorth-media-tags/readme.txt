@@ -44,5 +44,8 @@ Coming soon!
 
 == Changelog ==
 
+= 1.0.1 =
+* Added get_the_mediatags() function
+
 = 1.0 =
 * 2013-01-15: Initial release!
