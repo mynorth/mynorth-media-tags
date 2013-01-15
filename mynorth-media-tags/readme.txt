@@ -1,5 +1,4 @@
-MyNorth Media Tags
-===
+=== MyNorth Media Tags ===
 
 Contributors: Frank Bültge, Michael Thompson, Roger Lamb
 Tags: mynorth, mynorthmedia, attachments, images, media, media tags, media-tags, tags, taxonomy
@@ -8,8 +7,7 @@ Tested up to: 3.5
 Stable tag: 3.5
 
 
-Description
-==
+== Description ==
 
 Media taxonomy plugin meant as a drop-in replacement for <a href="http://wordpress.org/extend/plugins/media-tags/">Media-Tags plugin</a> in WordPress 3.5+, pieced together by <a href="http://mynorthmedia.com">MyNorthMedia</a>
 
@@ -30,23 +28,19 @@ A copy of the GPLv3 should exist alongside as license.txt, and if you keep attri
 Note that the GPLv3 does not cover the kitten and we would strongly discourage derivative works. Because...genetics are hard/dangerous.
 
 
-Installation
-==
-
-Coming soon! It's a WordPress plugin, so...sure you can figure it out.
-
-Frequently Asked Questions
-==
+== Installation ==
 
 Coming soon!
 
-Screenshots
-==
+== Frequently Asked Questions ==
 
 Coming soon!
 
-Changelog
-==
+== Screenshots ==
+
+Coming soon!
+
+== Changelog ==
 
 = 1.0 =
 * 2013-01-15: Initial release!
