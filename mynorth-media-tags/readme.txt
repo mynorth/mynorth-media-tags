@@ -11,6 +11,8 @@ Stable tag: 3.5
 
 Media taxonomy plugin meant as a drop-in replacement for <a href="http://wordpress.org/extend/plugins/media-tags/">Media-Tags plugin</a> in WordPress 3.5+, pieced together by <a href="http://mynorthmedia.com">MyNorthMedia</a>
 
+Find us on GitHub: <a href="https://github.com/mynorth/mynorth-media-tags">https://github.com/mynorth/mynorth-media-tags</a>
+
 Based almost entirely on: http://bueltge.de/taxonomien-im-wordpress-media-manager-nutzen/1474/
 
 MyNorthMedia changes:

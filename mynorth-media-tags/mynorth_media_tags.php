@@ -32,6 +32,9 @@
 
 
 /**
+ * Issues? Questions? Forks?
+ * https://github.com/mynorth/mynorth-media-tags
+ *
  * Based almost entirely on:
  * http://bueltge.de/taxonomien-im-wordpress-media-manager-nutzen/1474/
  *
